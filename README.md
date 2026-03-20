@@ -96,6 +96,8 @@ GitHub Actions workflow included at:
 
 GitLab CI compatible pipeline included as `.gitlab-ci.yml`.
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
+
 DockerHub auto-build instructions provided.
 
 ---
